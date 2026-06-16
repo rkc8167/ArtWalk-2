@@ -1,2 +1,5 @@
-node_modules/
+node_modules
+artwalk.db
+.env
 .DS_Store
+CNAME
